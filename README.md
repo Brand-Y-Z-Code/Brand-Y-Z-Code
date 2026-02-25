@@ -27,6 +27,4 @@ I graduated with a **Bachelor of Engineering (B.E.)** in **Software Engineering*
 
 ### **My GitHub Stats / 统计数据：**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brand-Y-Z-Code&show_icons=true&theme=radical&cache_seconds=1800" alt="Brand's GitHub stats" />
-</p>
+![Brand's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=Brand-Y-Z-Code&show_icons=true&theme=radical)
