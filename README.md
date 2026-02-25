@@ -1,28 +1,30 @@
 # Hi there, I'm Brand Y.Z.! 🚀
 
-### **Software Engineer turned Educator | Lifelong Learner | Tech Enthusiast**
+### **Software Engineer turned Educator | 软件工程师转转型教育者**
 
-I graduated with a B.E. in **Software Engineering** from **Southwest University** (211 Project) in 2017. With a professional background in **C++ and Python server-side development**, I have a deep passion for clean code and logical problem-solving.
+**[English]**
+I graduated with a **Bachelor of Engineering (B.E.)** in **Software Engineering**. With a professional background in **C++ and Python server-side development**, I have a deep passion for clean code and logical problem-solving. Currently, I am specializing in K-12 Programming Education (Scratch, Python, and C++).
 
----
-
-### **What I'm doing now:**
-
-* 👨‍🏫 **Transitioning** into K-12 Programming Education, specializing in **Scratch, Python, and C++**.
-* 📚 **Actively refreshing** my knowledge in Data Structures & Algorithms through top-tier global courses.
-* 🌟 I believe that coding is not just a skill, but a **new way of thinking** for the next generation.
+**[中文]**
+我拥有**软件工程专业工学学士学位 (B.E.)**。凭多年的 **C++ 与 Python 服务端开发**经验，我对简洁代码和逻辑解题有着浓厚兴趣。目前，我正专注于 K-12 青少年编程教育（Scratch、Python 及 C++ 算法）。
 
 ---
 
-### **Tech Stack:**
+### **What I'm doing now / 我在做什么：**
+
+* 👨‍🏫 **Teaching / 教学**: Bridging industrial logic with creative coding. | 将工程逻辑引入创意编程。
+* 📚 **Learning / 持续学习**: Refreshing algorithms and EdTech trends. | 深入钻研算法与教育科技趋势。
+* 🌟 **Mission / 使命**: Empowering the next generation with computational thinking. | 培养下一代的计算思维。
+
+---
+
+### **Tech Stack / 技术栈：**
 
 * **Languages:** Scratch, C++, Python
 * **Interests:** Competitive Programming, EdTech
 
-> "Success is not final, failure is not fatal: it is the courage to continue that counts."
-
 ---
 
-### **My GitHub Stats:**
+### **My GitHub Stats / 统计数据：**
 
-![Brand's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=Brand-Y-Z-Code&show_icons=true&theme=radical)
+![Brand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brand-Y-Z-Code&show_icons=true&theme=radical)
