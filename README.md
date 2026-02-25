@@ -20,7 +20,7 @@ I graduated with a **Bachelor of Engineering (B.E.)** in **Software Engineering*
 
 ### **Tech Stack / 技术栈：**
 
-* **Languages:** Scratch, C++, Python
+* **Languages:** Scratch, Python, C++
 * **Interests:** Competitive Programming, EdTech
 
 ---
