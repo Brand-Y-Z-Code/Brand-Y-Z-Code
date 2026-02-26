@@ -30,7 +30,7 @@
 
 ---
 
-### **📊 GitHub Stats / 我的统计数据**
+### **📊 GitHub Activity / 统计数据**
 
 | ![Brand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brand-Y-Z-Code&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brand-Y-Z-Code&layout=compact&theme=radical) |
 | :--- | :--- |
